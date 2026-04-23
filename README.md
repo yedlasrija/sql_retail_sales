@@ -17,6 +17,7 @@ This project is designed to demonstrate SQL skills and techniques typically used
 - **Table Creation**: A table named retail_sales is created to store the sales data. The table structure includes columns for transaction ID, sale date, sale time, customer ID, gender, age, product category, quantity sold, price per unit, cost of goods sold (COGS), and total sale amount.
 ## SQL Queries
 '''sql
+
 create schema SQL_project;
 use SQL_project;
 create table retail_sales(

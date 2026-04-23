@@ -31,7 +31,7 @@ quantiy	int,
 price_per_unit	float,
 cogs float,
 total_sale float
-)
+);
 '''
 
 ### 2. Data Exploration & Cleaning
